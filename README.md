@@ -1,32 +1,6 @@
 # house-price-prediction-pipeline
 Predict House Price Web Application
 
-Struttura progetto:
-
-progetto/
-│
-├── data/
-│   └── raw/
-│       └── Real estate valuation data set.xlsx
-│
-├── models/
-│   └── coordinates_model.pickle
-│   └── conditions_model.pickle
-│
-├── src/
-│   ├── config.py
-│   ├── preprocess.py
-│   ├── make_model.py
-│
-├── scripts/
-│   ├── UI.py
-│   └── run_pipeline.py
-└── requirements.txt
-
- 
-
-Descrizione del Modello e del Dataset
-
 Modello:
 Questa applicazione web utilizza un modello di Random Forest per prevedere il prezzo di una casa. Il modello è stato addestrato sui dati del dataset utilizzando due diverse modalità di previsione:
 
