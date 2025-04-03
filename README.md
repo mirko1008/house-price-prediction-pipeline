@@ -21,6 +21,8 @@ progetto/
 ├── scripts/
 │   ├── UI.py
 │   └── run_pipeline.py
+└── requirements.txt
+
  
 
 Descrizione del Modello e del Dataset
