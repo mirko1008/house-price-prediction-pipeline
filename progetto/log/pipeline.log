@@ -1,0 +1,170 @@
+2025-04-03 17:01:06,569 - INFO - Inizio della pipeline di machine learning
+2025-04-03 17:01:06,570 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 17:01:06,708 - INFO - Fase 1 completata: Dati preprocessati (X: (413, 2), y: (413,))
+2025-04-03 17:01:06,708 - INFO - Fase 2: Addestramento del modello
+2025-04-03 17:01:40,030 - INFO - Inizio della pipeline di machine learning
+2025-04-03 17:01:40,030 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 17:01:40,170 - INFO - Fase 1 completata: Dati preprocessati (X: (413, 2), y: (413,))
+2025-04-03 17:01:40,171 - INFO - Fase 2: Addestramento del modello
+2025-04-03 17:03:47,561 - INFO - Inizio della pipeline di machine learning
+2025-04-03 17:03:47,562 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 17:03:47,717 - INFO - Fase 1 completata: Dati preprocessati (X: (413, 2), y: (413,))
+2025-04-03 17:03:47,717 - INFO - Fase 2: Addestramento del modello
+2025-04-03 17:06:29,231 - INFO - Inizio della pipeline di machine learning
+2025-04-03 17:06:29,232 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 17:06:29,373 - INFO - Fase 1 completata: Dati preprocessati (X: (413, 2), y: (413,))
+2025-04-03 17:06:29,373 - INFO - Fase 2: Addestramento del modello
+2025-04-03 17:10:53,795 - INFO - Inizio della pipeline di machine learning
+2025-04-03 17:10:53,796 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 17:10:53,949 - INFO - Fase 1 completata: Dati preprocessati (X: (413, 2), y: (413,))
+2025-04-03 17:10:53,949 - INFO - Fase 2: Addestramento del modello
+2025-04-03 17:20:50,829 - INFO - Inizio della pipeline di machine learning
+2025-04-03 17:20:50,829 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 17:20:50,981 - INFO - Fase 1 completata: Dati preprocessati (X: (413, 2), y: (413,))
+2025-04-03 17:20:50,981 - INFO - Fase 2: Addestramento del modello
+2025-04-03 17:23:18,369 - INFO - Inizio della pipeline di machine learning
+2025-04-03 17:23:18,370 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 17:23:18,512 - INFO - Fase 1 completata: Dati preprocessati (X: (413, 2), y: (413,))
+2025-04-03 17:23:18,512 - INFO - Fase 2: Addestramento del modello
+2025-04-03 19:37:33,717 - INFO - Inizio della pipeline di machine learning
+2025-04-03 19:37:33,718 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 19:37:33,876 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 19:37:33,876 - INFO - Fase 2: Addestramento del modello
+2025-04-03 19:40:48,717 - INFO - Inizio della pipeline di machine learning
+2025-04-03 19:40:48,718 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 19:40:48,848 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 19:40:48,848 - INFO - Fase 2: Addestramento del modello
+2025-04-03 21:22:30,505 - INFO - Inizio della pipeline di machine learning
+2025-04-03 21:22:30,506 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 21:22:30,655 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 21:22:30,655 - INFO - Fase 2: Addestramento del modello
+2025-04-03 21:23:32,861 - INFO - Inizio della pipeline di machine learning
+2025-04-03 21:23:32,862 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 21:23:33,002 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 21:23:33,002 - INFO - Fase 2: Addestramento del modello
+2025-04-03 21:28:32,059 - INFO - Inizio della pipeline di machine learning
+2025-04-03 21:28:32,059 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 21:28:32,210 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 21:28:32,210 - INFO - Fase 2: Addestramento del modello
+2025-04-03 21:29:43,027 - INFO - Inizio della pipeline di machine learning
+2025-04-03 21:29:43,027 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 21:29:43,164 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 21:29:43,164 - INFO - Fase 2: Addestramento del modello
+2025-04-03 21:30:08,478 - INFO - Inizio della pipeline di machine learning
+2025-04-03 21:30:08,479 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 21:30:08,563 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 21:30:08,564 - INFO - Fase 2: Addestramento del modello
+2025-04-03 21:32:35,492 - INFO - Inizio della pipeline di machine learning
+2025-04-03 21:32:35,492 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 21:32:35,638 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 21:32:35,638 - INFO - Fase 2: Addestramento del modello
+2025-04-03 21:32:52,787 - INFO - Inizio della pipeline di machine learning
+2025-04-03 21:32:52,787 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 21:32:52,871 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 21:32:52,871 - INFO - Fase 2: Addestramento del modello
+2025-04-03 21:33:09,687 - INFO - Inizio della pipeline di machine learning
+2025-04-03 21:33:09,687 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 21:33:09,771 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 21:33:09,772 - INFO - Fase 2: Addestramento del modello
+2025-04-03 21:33:52,867 - INFO - Inizio della pipeline di machine learning
+2025-04-03 21:33:52,867 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 21:33:52,953 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 21:33:52,953 - INFO - Fase 2: Addestramento del modello
+2025-04-03 21:34:09,581 - INFO - Inizio della pipeline di machine learning
+2025-04-03 21:34:09,581 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 21:34:09,666 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 21:34:09,666 - INFO - Fase 2: Addestramento del modello
+2025-04-03 21:34:26,215 - INFO - Inizio della pipeline di machine learning
+2025-04-03 21:34:26,215 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 21:34:26,301 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 21:34:26,301 - INFO - Fase 2: Addestramento del modello
+2025-04-03 21:39:55,816 - INFO - Inizio della pipeline di machine learning
+2025-04-03 21:39:55,816 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 21:39:55,966 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 21:39:55,966 - INFO - Fase 2: Addestramento del modello
+2025-04-03 21:44:17,573 - INFO - Inizio della pipeline di machine learning
+2025-04-03 21:44:17,573 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 21:44:17,724 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 21:44:17,724 - INFO - Fase 2: Addestramento del modello
+2025-04-03 21:51:34,857 - INFO - Inizio della pipeline di machine learning
+2025-04-03 21:51:34,857 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 21:51:35,010 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 21:51:35,011 - INFO - Fase 2: Addestramento del modello
+2025-04-03 21:57:52,345 - INFO - Inizio della pipeline di machine learning
+2025-04-03 21:57:52,346 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 21:57:52,492 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 21:57:52,492 - INFO - Fase 2: Addestramento del modello
+2025-04-03 22:18:37,600 - INFO - Inizio della pipeline di machine learning
+2025-04-03 22:18:37,601 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 22:18:37,753 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 22:18:37,753 - INFO - Fase 2: Addestramento del modello
+2025-04-03 22:30:00,361 - INFO - Inizio della pipeline di machine learning
+2025-04-03 22:30:00,361 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 22:30:00,512 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 22:30:00,512 - INFO - Fase 2: Addestramento del modello
+2025-04-03 22:30:00,634 - INFO - Pipeline completata con successo!
+2025-04-03 22:35:25,746 - INFO - Inizio della pipeline di machine learning
+2025-04-03 22:35:25,746 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 22:35:25,904 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 22:35:25,904 - INFO - Fase 2: Addestramento del modello per le coordinate
+2025-04-03 22:35:26,030 - INFO - Fase 2 completata: Modello per le coordinate addestrato e salvato
+2025-04-03 22:35:26,030 - INFO - Fase 3: Addestramento del modello per le condizioni dell'appartamento
+2025-04-03 22:35:26,155 - INFO - Fase 3 completata: Modello per le condizioni dell'appartamento addestrato e salvato
+2025-04-03 22:35:26,156 - INFO - Pipeline completata con successo!
+2025-04-03 22:53:41,494 - INFO - Inizio della pipeline di machine learning
+2025-04-03 22:53:41,496 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 22:53:41,651 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 22:53:41,651 - INFO - Fase 2: Addestramento del modello per coordinate
+2025-04-03 22:53:41,773 - INFO - Fase 3: Addestramento del modello per condizioni
+2025-04-03 22:53:41,894 - INFO - Pipeline completata con successo!
+2025-04-03 23:02:30,653 - INFO - Inizio della pipeline di machine learning
+2025-04-03 23:02:30,653 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 23:06:52,445 - INFO - Inizio della pipeline di machine learning
+2025-04-03 23:06:52,445 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 23:06:52,600 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 23:06:52,600 - INFO - Fase 2: Addestramento del modello
+2025-04-03 23:06:52,728 - INFO - Pipeline completata con successo!
+2025-04-03 23:16:02,893 - INFO - Inizio della pipeline di machine learning
+2025-04-03 23:16:02,893 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 23:16:03,043 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 23:16:03,043 - INFO - Fase 2: Addestramento del modello per coordinate
+2025-04-03 23:17:17,974 - INFO - Inizio della pipeline di machine learning
+2025-04-03 23:17:17,974 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 23:17:18,117 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 23:17:18,117 - INFO - Fase 2: Addestramento del modello per coordinate
+2025-04-03 23:19:30,809 - INFO - Inizio della pipeline di machine learning
+2025-04-03 23:19:30,809 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 23:19:30,961 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 23:19:30,961 - INFO - Fase 2: Addestramento del modello per coordinate
+2025-04-03 23:19:31,081 - INFO - Fase 3: Addestramento del modello per condizioni
+2025-04-03 23:19:31,210 - INFO - Pipeline completata con successo!
+2025-04-03 23:27:54,361 - INFO - Inizio della pipeline di machine learning
+2025-04-03 23:27:54,362 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 23:27:54,382 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 23:27:54,382 - INFO - Fase 2: Addestramento del modello per coordinate
+2025-04-03 23:27:54,505 - INFO - Fase 3: Addestramento del modello per condizioni
+2025-04-03 23:27:54,631 - INFO - Pipeline completata con successo!
+2025-04-03 23:29:30,119 - INFO - Inizio della pipeline di machine learning
+2025-04-03 23:29:30,120 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 23:29:30,139 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 23:29:30,139 - INFO - Fase 2: Addestramento del modello per coordinate
+2025-04-03 23:29:30,262 - INFO - Fase 3: Addestramento del modello per condizioni
+2025-04-03 23:29:30,383 - INFO - Pipeline completata con successo!
+2025-04-03 23:36:04,695 - INFO - Inizio della pipeline di machine learning
+2025-04-03 23:36:04,695 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 23:36:04,715 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 23:36:04,716 - INFO - Fase 2: Addestramento del modello per coordinate
+2025-04-03 23:36:04,840 - INFO - Fase 3: Addestramento del modello per condizioni
+2025-04-03 23:36:04,960 - INFO - Pipeline completata con successo!
+2025-04-03 23:41:04,199 - INFO - Inizio della pipeline di machine learning
+2025-04-03 23:41:04,200 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 23:41:04,220 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 23:41:04,220 - INFO - Fase 2: Addestramento del modello per coordinate
+2025-04-03 23:41:04,342 - INFO - Fase 3: Addestramento del modello per condizioni
+2025-04-03 23:41:04,463 - INFO - Pipeline completata con successo!
+2025-04-03 23:55:00,188 - INFO - Inizio della pipeline di machine learning
+2025-04-03 23:55:00,189 - INFO - Fase 1: Preprocessing dei dati
+2025-04-03 23:55:00,209 - INFO - Fase 1 completata: Dati preprocessati (X: (414, 2), y: (414,))
+2025-04-03 23:55:00,209 - INFO - Fase 2: Addestramento del modello per coordinate
+2025-04-03 23:55:00,336 - INFO - Fase 3: Addestramento del modello per condizioni
+2025-04-03 23:55:00,462 - INFO - Pipeline completata con successo!
